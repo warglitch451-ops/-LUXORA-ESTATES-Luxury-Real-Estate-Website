@@ -381,23 +381,13 @@ header{
 
 
 
-
 .page-hero{
-
-    height:60vh;
-
     background-image:
-
     linear-gradient(
-
     rgba(0,0,0,.65),
-
     rgba(0,0,0,.75)
-
     ),
-
-    url("hero.jpg");
-
+    url("images/hero.jpg");
 }
 
 
@@ -1401,18 +1391,17 @@ header{
 
     padding:50px;
 
+    .experience-section{
     background:
-
     linear-gradient(
         rgba(0,0,0,.7),
         rgba(0,0,0,.7)
     ),
-
-    url("luxury-bg.jpg");
+    url("images/luxury-interior.jpg");
 
     background-size:cover;
-
-}
+    background-position:center;
+    }
 
 
 
